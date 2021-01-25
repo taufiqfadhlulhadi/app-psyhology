@@ -1,0 +1,224 @@
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Data.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Web.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Xml.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.manifest
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.application
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe.manifest
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.application
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+C:\Users\Shinichi\Documents\Visual Studio 2013\Projects\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.manifest
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.application
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe.manifest
+D:\Users\user\Desktop\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.application
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.manifest
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.application
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe.manifest
+D:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.application
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+G:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.manifest
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.application
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe.manifest
+D:\Project\Visual Studio Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.application
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbprojResolveAssemblyReference.cache
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form1.resources
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Form2.resources
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.FormExpire.resources
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.Resources.resources
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.GenerateResource.Cache
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.manifest
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.application
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.pdb
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.xml
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\FlashControlV71.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Data.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Deployment.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Drawing.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Web.Services.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Windows.Forms.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\System.Xml.Linq.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Interop.Scripting.dll
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe.manifest
+D:\Project\Visual Studio Project\Testing Project\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.application
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+E:\Apps_Pshikologi - Copy\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\bin\Debug\Apps_Pshikologi.exe.config
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Interop.Scripting.dll
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.vbproj.ResolveComReference.cache
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.exe
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.xml
+D:\Backup Flashdisk\New folder (2)\Apps_Pshikologi\Apps_Pshikologi\obj\Debug\Apps_Pshikologi.pdb
